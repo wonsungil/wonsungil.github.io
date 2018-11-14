@@ -6,9 +6,8 @@ baseurl:           ""
 url:               "http://wonsungil.github.io"
 
 # Social Profiles
-twitter_username:  w
 github_username:   wonsungil
-facebook_username: wonsungil
+facebook_username: sungil.won.3
 
 # Build settings
 markdown:          kramdown
