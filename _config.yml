@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             WonGoSu Blog
+email:             starship91@gmial.com
+description:       어디서 부터 시작해야하나.
+author:            W
 baseurl:           ""
-url:               "http://blackrockdigital.github.io"
+url:               "http://wonsungil.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  w
+github_username:   wonsungil
+facebook_username: wonsungil
 
 # Build settings
 markdown:          kramdown
