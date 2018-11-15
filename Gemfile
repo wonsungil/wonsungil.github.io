@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-admin"
+  gem "addressable", "~> 2.4.0"
 end
 
 require 'rbconfig'
